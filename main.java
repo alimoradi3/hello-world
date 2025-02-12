@@ -20,5 +20,6 @@ class Main {
     }
     public int remoteBranchFunc(int a){
         return a + 1;
+
     }
 }
