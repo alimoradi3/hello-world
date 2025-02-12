@@ -18,4 +18,7 @@ class Main {
     public int div(int a, int b) {
         return a / b;
     }
+    public int remoteBranchFunc(int a){
+        return a + 1;
+    }
 }
