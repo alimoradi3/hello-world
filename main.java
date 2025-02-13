@@ -19,7 +19,7 @@ class Main {
         return a / b;
     }
     public int remoteBranchFunc(int a){
-        return a + 1;
+        return a + 11;
 
     }
 }
